@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = louisliu
+	email = 249096020@qq.com
+[push]
+	default = simple
+[color]
+	ui = true
+[alias]
+	st = status
+	br = branch
